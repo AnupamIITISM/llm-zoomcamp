@@ -4,3 +4,4 @@ openai
 elasticsearch
 pandas
 scikit-learn
+ipykernel
